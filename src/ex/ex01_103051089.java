@@ -24,7 +24,7 @@ public class ex01_103051089 {
 			sum+=a;
 			count ++;
 		}
-		System.out.println("總合："+sum+"\t 平均："+(sum/count));		
+		System.out.println("總合："+sum+"\t 平均："+(float)sum/count);		
 	}
 
 }

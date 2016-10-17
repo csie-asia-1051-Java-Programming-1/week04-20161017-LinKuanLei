@@ -21,7 +21,7 @@ public class ex04_103051089 {
 		System.out.print("輸入 一個符號：");
 		char c = scn.next().charAt(0);
 		for(int i =1;i<=n;i++){
-			for(int ii =n;ii>=i;ii--){
+			for(int ii =n;ii>=1;ii--){
 				System.out.print(c);
 			}
 			System.out.print("\n");
