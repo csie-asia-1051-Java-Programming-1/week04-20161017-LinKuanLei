@@ -58,7 +58,7 @@ public class hw04_103051089 {
 					}
 					for(int i = 1 ; i <= n; i++){
 						for(int ii = n ; ii >= i ; ii--){
-							System.out.print("*");
+							System.out.print("%");
 						}
 						System.out.print("\n");
 					}
